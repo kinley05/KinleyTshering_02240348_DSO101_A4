@@ -27,7 +27,7 @@ KinleyTshering_02240348_DSO101_A1/
 - Repository is public on GitHub
 - Contains all required files
 
-1
+![](screenshots/1.png)
 
 ## Task 2: Application
 
@@ -37,7 +37,8 @@ A simple static web page displaying:
 - Module: DSO101 Assignment 4
 - a joke: "Go save him as a PDF"
 
-2
+![](screenshots/2%20new.png)
+![](screenshots/2.png)
 
 ## Task 3: GitHub Actions Workflow
 
@@ -64,8 +65,8 @@ jobs:
 - Checks out the code
 - Confirms successful push
 
-4
-5
+![](screenshots/4.png)
+![](screenshots/5.png)
 
 ## Task 4: Render Deployment
 
@@ -79,7 +80,7 @@ jobs:
 ### Live URL
 https://kinleytshering-02240348-dso101-a4.onrender.com
 
-3
+![](screenshots/3.png)
 
 ## CI/CD Flow
 
